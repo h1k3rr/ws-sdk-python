@@ -1,5 +1,5 @@
-from project_name.base import NAME
+from ws_sdk_python.base import NAME
 
 
 def test_base():
-    assert NAME == "project_name"
+    assert NAME == "ws_sdk_python"
